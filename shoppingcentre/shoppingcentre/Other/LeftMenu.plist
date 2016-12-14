@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>menu_icon_home_selected</string>
+		<key>name</key>
+		<string>首页</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>menu_icon_default</string>
+		<key>name</key>
+		<string>女装</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>menu_icon_default</string>
+		<key>name</key>
+		<string>男装</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>menu_icon_default</string>
+		<key>name</key>
+		<string>美装</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>menu_icon_default</string>
+		<key>name</key>
+		<string>宠物</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>menu_icon_default</string>
+		<key>name</key>
+		<string>母婴</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>menu_icon_default</string>
+		<key>name</key>
+		<string>居家</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>menu_icon_default</string>
+		<key>name</key>
+		<string>户外</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>menu_icon_default</string>
+		<key>name</key>
+		<string>家电</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>menu_icon_default</string>
+		<key>name</key>
+		<string>箱包</string>
+	</dict>
+</array>
+</plist>
